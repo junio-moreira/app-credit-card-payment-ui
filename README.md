@@ -2,7 +2,7 @@
 
 ## Project 🎯 
 
-Exercise 03 - Mobile Device Programming: "CardLayout UI" is a user-friendly Android app for simulating credit card input with real-time validation and intuitive design.
+Exercise 02 - Mobile Device Programming: "CardLayout UI" is a user-friendly Android app for simulating credit card input with real-time validation and intuitive design.
  
 
 ## Layout 🎨 
