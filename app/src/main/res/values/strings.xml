@@ -3,5 +3,7 @@
     <string name="app_title">Payment MasterIF</string>
     <string name="app_date">Month/Year</string>
     <string name="app_cvv">CVV</string>
+    <string name="app_txt_name">J. MOREIRA</string>
+    <string name="app_asteriscos"> * * * *  * * * *  * * * *  * * * * </string>
 
 </resources>
